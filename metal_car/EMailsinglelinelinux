@@ -1,0 +1,1 @@
+echo "Detection of metal slug" | mail -s "Test" syedumaidahmed96@gmail.com

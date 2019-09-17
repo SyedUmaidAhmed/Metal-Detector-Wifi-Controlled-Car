@@ -1,0 +1,9 @@
+Install Libraries Linux:
+sudo apt-get install ssmtp mailutils
+
+sudo nano /etc/ssmtp/ssmtp.conf
+
+Change 
+AuthUser and AuthPassword
+
+echo "Raspberry Pi Email" | mail -s "Test" syedumaidahmed96@gmail.com
